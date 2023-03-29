@@ -1,0 +1,16 @@
+{
+    "url": "scorewoori",
+    "title": "박서진 찐팬테스트",
+    "des": "나의 팬테스트 점수는?",
+    "homeDesc": ["팬 점수", "테스트"],
+    "twitterDesc": "트위터 홈페이지 소개",
+    "shareMentKakao": "나의 찐팬테스트 점수는? ",
+    "shareimg": "https://cdn.spotvnews.co.kr/news/photo/202302/589196_818609_5845.jpg",
+    "shareMentTwitter": "박서진 찐팬테스트 - 나의 점수는? ",
+    "startButtonColor": "#E3633E",
+    "startButtonHeight": "85%",
+    "questionNumColor": "#EF6A44",
+    "questionSelectorColor": "#FD8A69",
+    "resultMainColor": "#EF6A44",
+    "adSlot": "3940146175"
+}

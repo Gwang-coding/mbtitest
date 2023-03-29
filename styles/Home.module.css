@@ -1,0 +1,33 @@
+.page {
+    display: flex;
+    width: 370px;
+    height: 100%;
+    margin: 0 auto;
+    flex-direction: column;
+    font-family: 'BMJUA';
+}
+
+.title {
+    font-weight: 400;
+    font-size: 30px;
+    cursor: pointer;
+    text-decoration-line: none;
+    color: black;
+}
+.box {
+    width: 330px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 25px;
+}
+.boxtext {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.error {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}

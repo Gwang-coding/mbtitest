@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "question": "1번째 질문",
+        "answer1": {
+            "text": " 1말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "1조심성",
+            "score": 0
+        },
+        "answer3": {
+            "text": "1거이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "1거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 2,
+        "question": "2번째 질문",
+        "answer1": {
+            "text": "2거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "2조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "2거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "2거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 3,
+        "question": "3번째 질문",
+        "answer1": {
+            "text": "3거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "3조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "3거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "3거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 4,
+        "question": "4번째 질문",
+        "answer1": {
+            "text": "4거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "4조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "4거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "4거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 5,
+        "question": "5번째 질문",
+        "answer1": {
+            "text": "5거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "5조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "5거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "5거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 6,
+        "question": "6번째 질문",
+        "answer1": {
+            "text": "6거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "6조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "6거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "6거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 7,
+        "question": "7번째 질문",
+        "answer1": {
+            "text": "7거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "7조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "7거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "7거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 8,
+        "question": "8번째 질문",
+        "answer1": {
+            "text": "8거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "8조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "8거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "8거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 9,
+        "question": "9번째 질문",
+        "answer1": {
+            "text": "9거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "9조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "9거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "9거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 10,
+        "question": "10번째 질문",
+        "answer1": {
+            "text": "10거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "10조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "10거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "10거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 11,
+        "question": "11번째 질문",
+        "answer1": {
+            "text": "11거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "11조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "11거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "11거침없이 말하는 편이다",
+            "score": 0
+        }
+    },
+    {
+        "id": 12,
+        "question": "12번째 질문",
+        "answer1": {
+            "text": "12거침없이 말하는 편이다",
+            "score": 10
+        },
+        "answer2": {
+            "text": "12조심성 있게 말하는 편이다",
+            "score": 0
+        },
+        "answer3": {
+            "text": "12거침없이 말하는 편이다",
+            "score": 0
+        },
+        "answer4": {
+            "text": "12거침없이 말하는 편이다",
+            "score": 0
+        }
+    }
+]

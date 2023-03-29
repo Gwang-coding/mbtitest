@@ -1,0 +1,43 @@
+.top {
+    display: flex;
+    align-items: center;
+    width: 390px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+.menu {
+    flex: 1 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SideBarWrap {
+    padding: 10px;
+    transform: translateX(-30px);
+    position: relative;
+    border-radius: 0 15px 15px 0;
+    background-color: #e7e4e1;
+    height: 100%;
+    width: 200px;
+    top: 0;
+    position: fixed;
+    transition: 0.5s ease;
+}
+.cancle {
+    opacity: 1;
+    position: absolute;
+    inset: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    transition: opacity 0.5s ease 0s;
+}
+.link {
+    display: flex;
+    font-size: 25px;
+    font-family: 'BMJUA';
+    color: black;
+    align-items: center;
+    text-decoration: none;
+}

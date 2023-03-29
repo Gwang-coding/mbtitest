@@ -1,0 +1,19 @@
+{
+    "url": "woori",
+    "title": "미우새 성격 테스트",
+    "des": "나와 비슷한 미우새 멤버는 ?",
+    "desc": "나와 비슷한 미우새 멤버는 미운우리새끼 MBTI 테스트, 이상민, 박수홍, 김희철, 신동엽, 김종군, 서장훈, 배정남, 탁재훈, 임원희, MBTI? ",
+    "homeDesc": ["미우새 성격", "테스트"],
+    "shareimg": "https://cdn.spotvnews.co.kr/news/photo/202302/589196_818609_5845.jpg",
+    "twitterDesc": "트위터 홈페이지 소개",
+    "shareMentKakao": "나와 비슷한 미우새 멤버는? ",
+    "shareMentTwitter": "미우새 성격 테스트 - 나와 비슷한 미우새 멤버는? ",
+    "startButtonColor": "#E3633E",
+    "startButtonHeight": "85%",
+    "questionNumColor": "#EF6A44",
+    "questionSelectorColor": "#FD8A69",
+    "resultTopText": "미우새",
+    "resultBottomText": "에서 당신은?",
+    "resultMainColor": "#EF6A44",
+    "adSlot": "3940146175"
+}
